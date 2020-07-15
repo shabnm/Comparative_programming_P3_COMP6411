@@ -1,2 +1,5 @@
-# 6411_erlang_p3
-erlang assignment project
+# Comparative programming COMP 6411
+
+# Project 3 - Functional programming - Erlang project
+
+
